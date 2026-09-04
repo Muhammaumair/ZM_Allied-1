@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lemLP130Wn4=",
+  "dgSpecHash": "c8Tu79ircPE=",
   "success": true,
-  "projectFilePath": "D:\\ZMAllied\\ZMAllied\\ZMAllied.Infrastructure\\ZMAllied.Infrastructure.csproj",
+  "projectFilePath": "D:\\Github\\ZM_Allied_Back\\ZMAllied.Infrastructure\\ZMAllied.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SharCom\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\SharCom\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
@@ -85,9 +85,9 @@
       "code": "NU1902",
       "level": "Warning",
       "message": "Package 'System.IdentityModel.Tokens.Jwt' 7.0.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
-      "projectPath": "D:\\ZMAllied\\ZMAllied\\ZMAllied.Infrastructure\\ZMAllied.Infrastructure.csproj",
+      "projectPath": "D:\\Github\\ZM_Allied_Back\\ZMAllied.Infrastructure\\ZMAllied.Infrastructure.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\ZMAllied\\ZMAllied\\ZMAllied.Infrastructure\\ZMAllied.Infrastructure.csproj",
+      "filePath": "D:\\Github\\ZM_Allied_Back\\ZMAllied.Infrastructure\\ZMAllied.Infrastructure.csproj",
       "libraryId": "System.IdentityModel.Tokens.Jwt",
       "targetGraphs": [
         "net8.0"

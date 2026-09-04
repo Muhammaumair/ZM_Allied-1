@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ZMAllied\\ZMAllied\\ZMAllied.Domain\\ZMAllied.Domain.csproj": {}
+    "D:\\Github\\ZM_Allied_Back\\ZMAllied.Domain\\ZMAllied.Domain.csproj": {}
   },
   "projects": {
-    "D:\\ZMAllied\\ZMAllied\\ZMAllied.Domain\\ZMAllied.Domain.csproj": {
+    "D:\\Github\\ZM_Allied_Back\\ZMAllied.Domain\\ZMAllied.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ZMAllied\\ZMAllied\\ZMAllied.Domain\\ZMAllied.Domain.csproj",
+        "projectUniqueName": "D:\\Github\\ZM_Allied_Back\\ZMAllied.Domain\\ZMAllied.Domain.csproj",
         "projectName": "ZMAllied.Domain",
-        "projectPath": "D:\\ZMAllied\\ZMAllied\\ZMAllied.Domain\\ZMAllied.Domain.csproj",
+        "projectPath": "D:\\Github\\ZM_Allied_Back\\ZMAllied.Domain\\ZMAllied.Domain.csproj",
         "packagesPath": "C:\\Users\\SharCom\\.nuget\\packages\\",
-        "outputPath": "D:\\ZMAllied\\ZMAllied\\ZMAllied.Domain\\obj\\",
+        "outputPath": "D:\\Github\\ZM_Allied_Back\\ZMAllied.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

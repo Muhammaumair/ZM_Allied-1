@@ -4460,11 +4460,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ZMAllied\\ZMAllied\\ZMAllied.API\\ZMAllied.API.csproj",
+      "projectUniqueName": "D:\\Github\\ZM_Allied_Back\\ZMAllied.API\\ZMAllied.API.csproj",
       "projectName": "ZMAllied.API",
-      "projectPath": "D:\\ZMAllied\\ZMAllied\\ZMAllied.API\\ZMAllied.API.csproj",
+      "projectPath": "D:\\Github\\ZM_Allied_Back\\ZMAllied.API\\ZMAllied.API.csproj",
       "packagesPath": "C:\\Users\\SharCom\\.nuget\\packages\\",
-      "outputPath": "D:\\ZMAllied\\ZMAllied\\ZMAllied.API\\obj\\",
+      "outputPath": "D:\\Github\\ZM_Allied_Back\\ZMAllied.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4485,11 +4485,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\ZMAllied\\ZMAllied\\ZMAllied.Application\\ZMAllied.Application.csproj": {
-              "projectPath": "D:\\ZMAllied\\ZMAllied\\ZMAllied.Application\\ZMAllied.Application.csproj"
+            "D:\\Github\\ZM_Allied_Back\\ZMAllied.Application\\ZMAllied.Application.csproj": {
+              "projectPath": "D:\\Github\\ZM_Allied_Back\\ZMAllied.Application\\ZMAllied.Application.csproj"
             },
-            "D:\\ZMAllied\\ZMAllied\\ZMAllied.Infrastructure\\ZMAllied.Infrastructure.csproj": {
-              "projectPath": "D:\\ZMAllied\\ZMAllied\\ZMAllied.Infrastructure\\ZMAllied.Infrastructure.csproj"
+            "D:\\Github\\ZM_Allied_Back\\ZMAllied.Infrastructure\\ZMAllied.Infrastructure.csproj": {
+              "projectPath": "D:\\Github\\ZM_Allied_Back\\ZMAllied.Infrastructure\\ZMAllied.Infrastructure.csproj"
             }
           }
         }
