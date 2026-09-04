@@ -1,0 +1,11 @@
+d:\ZMAllied\ZMAllied\ZMAllied.Domain\bin\Debug\net8.0\ZMAllied.Domain.deps.json
+d:\ZMAllied\ZMAllied\ZMAllied.Domain\bin\Debug\net8.0\ZMAllied.Domain.dll
+d:\ZMAllied\ZMAllied\ZMAllied.Domain\bin\Debug\net8.0\ZMAllied.Domain.pdb
+d:\ZMAllied\ZMAllied\ZMAllied.Domain\obj\Debug\net8.0\ZMAllied.Domain.GeneratedMSBuildEditorConfig.editorconfig
+d:\ZMAllied\ZMAllied\ZMAllied.Domain\obj\Debug\net8.0\ZMAllied.Domain.AssemblyInfoInputs.cache
+d:\ZMAllied\ZMAllied\ZMAllied.Domain\obj\Debug\net8.0\ZMAllied.Domain.AssemblyInfo.cs
+d:\ZMAllied\ZMAllied\ZMAllied.Domain\obj\Debug\net8.0\ZMAllied.Domain.csproj.CoreCompileInputs.cache
+d:\ZMAllied\ZMAllied\ZMAllied.Domain\obj\Debug\net8.0\ZMAllied.Domain.dll
+d:\ZMAllied\ZMAllied\ZMAllied.Domain\obj\Debug\net8.0\refint\ZMAllied.Domain.dll
+d:\ZMAllied\ZMAllied\ZMAllied.Domain\obj\Debug\net8.0\ZMAllied.Domain.pdb
+d:\ZMAllied\ZMAllied\ZMAllied.Domain\obj\Debug\net8.0\ref\ZMAllied.Domain.dll

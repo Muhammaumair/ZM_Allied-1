@@ -1,0 +1,1 @@
+using System.ComponentModel.DataAnnotations;namespace ZMAllied.Application.DTOs.CompanyRate{public class CompanyRateCreateDto{[Range(1,int.MaxValue)]public int CompanyId{get;set;}public decimal RatePerTon{get;set;}public DateTime EffectiveFrom{get;set;}public DateTime? EffectiveTo{get;set;}}}

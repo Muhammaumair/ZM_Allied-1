@@ -1,0 +1,50 @@
+Using launch settings from D:\ZMAllied\ZMAllied\ZMAllied.API\Properties\launchSettings.json...
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (24ms) [Parameters=[], CommandType='Text', CommandTimeout='0']
+      SELECT CASE
+          WHEN EXISTS (
+              SELECT 1
+              FROM [Permissions] AS [p]) THEN CAST(1 AS bit)
+          ELSE CAST(0 AS bit)
+      END
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (15ms) [Parameters=[@__additionalNames_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='0']
+      SELECT [p].[Name]
+      FROM [Permissions] AS [p]
+      WHERE [p].[Name] IN (
+          SELECT [a].[value]
+          FROM OPENJSON(@__additionalNames_0) WITH ([value] nvarchar(100) '$') AS [a]
+      )
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='0']
+      SELECT CASE
+          WHEN EXISTS (
+              SELECT 1
+              FROM [Roles] AS [r]) THEN CAST(1 AS bit)
+          ELSE CAST(0 AS bit)
+      END
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='0']
+      SELECT TOP(1) [u].[Id], [u].[CreatedAt], [u].[CreatedBy], [u].[Email], [u].[FullName], [u].[IsActive], [u].[IsDeleted], [u].[LastLoginAt], [u].[PasswordHash], [u].[Phone], [u].[UpdatedAt], [u].[UpdatedBy], [u].[Username]
+      FROM [Users] AS [u]
+      WHERE LOWER([u].[Username]) = N'umair'
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='0']
+      SELECT TOP(1) [r].[Id], [r].[CreatedAt], [r].[CreatedBy], [r].[Description], [r].[IsActive], [r].[IsDeleted], [r].[Name], [r].[UpdatedAt], [r].[UpdatedBy]
+      FROM [Roles] AS [r]
+      WHERE [r].[Name] = N'Admin' AND [r].[IsActive] = CAST(1 AS bit) AND [r].[IsDeleted] = CAST(0 AS bit)
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (3ms) [Parameters=[@__umairUser_Id_0='?' (DbType = Int32), @__umairAdminRole_Id_1='?' (DbType = Int32)], CommandType='Text', CommandTimeout='0']
+      SELECT TOP(1) [u].[Id], [u].[CreatedAt], [u].[CreatedBy], [u].[IsDeleted], [u].[RoleId], [u].[UpdatedAt], [u].[UpdatedBy], [u].[UserId]
+      FROM [UserRoles] AS [u]
+      WHERE [u].[UserId] = @__umairUser_Id_0 AND [u].[RoleId] = @__umairAdminRole_Id_1 AND [u].[IsDeleted] = CAST(0 AS bit)
+info: ZMAllied.Infrastructure.Persistence.ZMAlliedDbContext[0]
+      Default Umair admin user is ready.
+info: Microsoft.Hosting.Lifetime[14]
+      Now listening on: http://127.0.0.1:5089
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: D:\ZMAllied\ZMAllied\ZMAllied.API

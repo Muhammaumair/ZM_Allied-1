@@ -1,0 +1,54 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZMAllied.API", "ZMAllied.API\ZMAllied.API.csproj", "{A12F4372-FF01-4FBF-8893-515B253138B1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{DDBB0F5F-83F0-4382-ACCB-4C6A0C103B8B} = {DDBB0F5F-83F0-4382-ACCB-4C6A0C103B8B}
+		{EF21D4B8-1EB3-4246-AF53-303F0670FD7C} = {EF21D4B8-1EB3-4246-AF53-303F0670FD7C}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZMAllied.Application", "ZMAllied.Application\ZMAllied.Application.csproj", "{EF21D4B8-1EB3-4246-AF53-303F0670FD7C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CC07F277-79EF-42C5-9402-48A92C824CA9} = {CC07F277-79EF-42C5-9402-48A92C824CA9}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZMAllied.Infrastructure", "ZMAllied.Infrastructure\ZMAllied.Infrastructure.csproj", "{DDBB0F5F-83F0-4382-ACCB-4C6A0C103B8B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CC07F277-79EF-42C5-9402-48A92C824CA9} = {CC07F277-79EF-42C5-9402-48A92C824CA9}
+		{EF21D4B8-1EB3-4246-AF53-303F0670FD7C} = {EF21D4B8-1EB3-4246-AF53-303F0670FD7C}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZMAllied.Domain", "ZMAllied.Domain\ZMAllied.Domain.csproj", "{CC07F277-79EF-42C5-9402-48A92C824CA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A12F4372-FF01-4FBF-8893-515B253138B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A12F4372-FF01-4FBF-8893-515B253138B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A12F4372-FF01-4FBF-8893-515B253138B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A12F4372-FF01-4FBF-8893-515B253138B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF21D4B8-1EB3-4246-AF53-303F0670FD7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF21D4B8-1EB3-4246-AF53-303F0670FD7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF21D4B8-1EB3-4246-AF53-303F0670FD7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF21D4B8-1EB3-4246-AF53-303F0670FD7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDBB0F5F-83F0-4382-ACCB-4C6A0C103B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDBB0F5F-83F0-4382-ACCB-4C6A0C103B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDBB0F5F-83F0-4382-ACCB-4C6A0C103B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDBB0F5F-83F0-4382-ACCB-4C6A0C103B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC07F277-79EF-42C5-9402-48A92C824CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC07F277-79EF-42C5-9402-48A92C824CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC07F277-79EF-42C5-9402-48A92C824CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC07F277-79EF-42C5-9402-48A92C824CA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30A8B68F-4EC8-4F26-A178-5C2C95B380D7}
+	EndGlobalSection
+EndGlobal

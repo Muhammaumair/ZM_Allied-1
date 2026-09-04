@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ZMAllied.Domain\ZMAllied.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DTOs\" />
+    <Folder Include="DTOs\Supplier\" />
+    <Folder Include="DTOs\Dashboard\" />
+    <Folder Include="DTOs\Reports\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Services\" />
+    <Folder Include="Validators\" />
+    <Folder Include="Features\" />
+    <Folder Include="Features\Trips\" />
+    <Folder Include="Features\Bilty\" />
+    <Folder Include="Features\Parties\" />
+    <Folder Include="Features\Fleet\" />
+    <Folder Include="Features\CashBook\" />
+    <Folder Include="Features\DDR\" />
+    <Folder Include="Features\Suppliers\" />
+    <Folder Include="Features\Offices\" />
+    <Folder Include="Features\Reports\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Identity.Core" Version="8.0.0" />
+  </ItemGroup>
+
+</Project>

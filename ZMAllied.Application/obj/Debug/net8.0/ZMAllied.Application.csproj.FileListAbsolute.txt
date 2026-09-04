@@ -1,0 +1,15 @@
+d:\ZMAllied\ZMAllied\ZMAllied.Application\bin\Debug\net8.0\ZMAllied.Application.deps.json
+d:\ZMAllied\ZMAllied\ZMAllied.Application\bin\Debug\net8.0\ZMAllied.Application.dll
+d:\ZMAllied\ZMAllied\ZMAllied.Application\bin\Debug\net8.0\ZMAllied.Application.pdb
+d:\ZMAllied\ZMAllied\ZMAllied.Application\bin\Debug\net8.0\ZMAllied.Domain.dll
+d:\ZMAllied\ZMAllied\ZMAllied.Application\bin\Debug\net8.0\ZMAllied.Domain.pdb
+d:\ZMAllied\ZMAllied\ZMAllied.Application\obj\Debug\net8.0\ZMAllied.Application.csproj.AssemblyReference.cache
+d:\ZMAllied\ZMAllied\ZMAllied.Application\obj\Debug\net8.0\ZMAllied.Application.GeneratedMSBuildEditorConfig.editorconfig
+d:\ZMAllied\ZMAllied\ZMAllied.Application\obj\Debug\net8.0\ZMAllied.Application.AssemblyInfoInputs.cache
+d:\ZMAllied\ZMAllied\ZMAllied.Application\obj\Debug\net8.0\ZMAllied.Application.AssemblyInfo.cs
+d:\ZMAllied\ZMAllied\ZMAllied.Application\obj\Debug\net8.0\ZMAllied.Application.csproj.CoreCompileInputs.cache
+d:\ZMAllied\ZMAllied\ZMAllied.Application\obj\Debug\net8.0\ZMAllied.94F2FA96.Up2Date
+d:\ZMAllied\ZMAllied\ZMAllied.Application\obj\Debug\net8.0\ZMAllied.Application.dll
+d:\ZMAllied\ZMAllied\ZMAllied.Application\obj\Debug\net8.0\refint\ZMAllied.Application.dll
+d:\ZMAllied\ZMAllied\ZMAllied.Application\obj\Debug\net8.0\ZMAllied.Application.pdb
+d:\ZMAllied\ZMAllied\ZMAllied.Application\obj\Debug\net8.0\ref\ZMAllied.Application.dll

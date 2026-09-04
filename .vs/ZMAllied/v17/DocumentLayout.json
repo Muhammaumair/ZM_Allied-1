@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ZMAllied\\ZMAllied\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A12F4372-FF01-4FBF-8893-515B253138B1}|ZMAllied.API\\ZMAllied.API.csproj|d:\\zmallied\\zmallied\\zmallied.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A12F4372-FF01-4FBF-8893-515B253138B1}|ZMAllied.API\\ZMAllied.API.csproj|solutionrelative:zmallied.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF21D4B8-1EB3-4246-AF53-303F0670FD7C}|ZMAllied.Application\\ZMAllied.Application.csproj|d:\\zmallied\\zmallied\\zmallied.application\\services\\biltyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF21D4B8-1EB3-4246-AF53-303F0670FD7C}|ZMAllied.Application\\ZMAllied.Application.csproj|solutionrelative:zmallied.application\\services\\biltyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF21D4B8-1EB3-4246-AF53-303F0670FD7C}|ZMAllied.Application\\ZMAllied.Application.csproj|d:\\zmallied\\zmallied\\zmallied.application\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF21D4B8-1EB3-4246-AF53-303F0670FD7C}|ZMAllied.Application\\ZMAllied.Application.csproj|solutionrelative:zmallied.application\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF21D4B8-1EB3-4246-AF53-303F0670FD7C}|ZMAllied.Application\\ZMAllied.Application.csproj|d:\\zmallied\\zmallied\\zmallied.application\\dtos\\company\\companycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF21D4B8-1EB3-4246-AF53-303F0670FD7C}|ZMAllied.Application\\ZMAllied.Application.csproj|solutionrelative:zmallied.application\\dtos\\company\\companycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF21D4B8-1EB3-4246-AF53-303F0670FD7C}|ZMAllied.Application\\ZMAllied.Application.csproj|d:\\zmallied\\zmallied\\zmallied.application\\interfaces\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF21D4B8-1EB3-4246-AF53-303F0670FD7C}|ZMAllied.Application\\ZMAllied.Application.csproj|solutionrelative:zmallied.application\\interfaces\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A12F4372-FF01-4FBF-8893-515B253138B1}|ZMAllied.API\\ZMAllied.API.csproj|d:\\zmallied\\zmallied\\zmallied.api\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A12F4372-FF01-4FBF-8893-515B253138B1}|ZMAllied.API\\ZMAllied.API.csproj|solutionrelative:zmallied.api\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A12F4372-FF01-4FBF-8893-515B253138B1}|ZMAllied.API\\ZMAllied.API.csproj|d:\\zmallied\\zmallied\\zmallied.api\\controllers\\fuelexpensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A12F4372-FF01-4FBF-8893-515B253138B1}|ZMAllied.API\\ZMAllied.API.csproj|solutionrelative:zmallied.api\\controllers\\fuelexpensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBB0F5F-83F0-4382-ACCB-4C6A0C103B8B}|ZMAllied.Infrastructure\\ZMAllied.Infrastructure.csproj|d:\\zmallied\\zmallied\\zmallied.infrastructure\\repositories\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBB0F5F-83F0-4382-ACCB-4C6A0C103B8B}|ZMAllied.Infrastructure\\ZMAllied.Infrastructure.csproj|solutionrelative:zmallied.infrastructure\\repositories\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC07F277-79EF-42C5-9402-48A92C824CA9}|ZMAllied.Domain\\ZMAllied.Domain.csproj|d:\\zmallied\\zmallied\\zmallied.domain\\entities\\organization\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC07F277-79EF-42C5-9402-48A92C824CA9}|ZMAllied.Domain\\ZMAllied.Domain.csproj|solutionrelative:zmallied.domain\\entities\\organization\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC07F277-79EF-42C5-9402-48A92C824CA9}|ZMAllied.Domain\\ZMAllied.Domain.csproj|d:\\zmallied\\zmallied\\zmallied.domain\\entities\\organization\\companyrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC07F277-79EF-42C5-9402-48A92C824CA9}|ZMAllied.Domain\\ZMAllied.Domain.csproj|solutionrelative:zmallied.domain\\entities\\organization\\companyrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF21D4B8-1EB3-4246-AF53-303F0670FD7C}|ZMAllied.Application\\ZMAllied.Application.csproj|d:\\zmallied\\zmallied\\zmallied.application\\interfaces\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF21D4B8-1EB3-4246-AF53-303F0670FD7C}|ZMAllied.Application\\ZMAllied.Application.csproj|solutionrelative:zmallied.application\\interfaces\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF21D4B8-1EB3-4246-AF53-303F0670FD7C}|ZMAllied.Application\\ZMAllied.Application.csproj|d:\\zmallied\\zmallied\\zmallied.application\\dtos\\company\\companyupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF21D4B8-1EB3-4246-AF53-303F0670FD7C}|ZMAllied.Application\\ZMAllied.Application.csproj|solutionrelative:zmallied.application\\dtos\\company\\companyupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF21D4B8-1EB3-4246-AF53-303F0670FD7C}|ZMAllied.Application\\ZMAllied.Application.csproj|d:\\zmallied\\zmallied\\zmallied.application\\dtos\\company\\companyresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF21D4B8-1EB3-4246-AF53-303F0670FD7C}|ZMAllied.Application\\ZMAllied.Application.csproj|solutionrelative:zmallied.application\\dtos\\company\\companyresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ZMAllied\\ZMAllied\\ZMAllied.API\\Program.cs",
+              "RelativeDocumentMoniker": "ZMAllied.API\\Program.cs",
+              "ToolTip": "D:\\ZMAllied\\ZMAllied\\ZMAllied.API\\Program.cs",
+              "RelativeToolTip": "ZMAllied.API\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T15:16:30.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BiltyService.cs",
+              "DocumentMoniker": "D:\\ZMAllied\\ZMAllied\\ZMAllied.Application\\Services\\BiltyService.cs",
+              "RelativeDocumentMoniker": "ZMAllied.Application\\Services\\BiltyService.cs",
+              "ToolTip": "D:\\ZMAllied\\ZMAllied\\ZMAllied.Application\\Services\\BiltyService.cs",
+              "RelativeToolTip": "ZMAllied.Application\\Services\\BiltyService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwC0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T04:02:42.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FuelExpensesController.cs",
+              "DocumentMoniker": "D:\\ZMAllied\\ZMAllied\\ZMAllied.API\\Controllers\\FuelExpensesController.cs",
+              "RelativeDocumentMoniker": "ZMAllied.API\\Controllers\\FuelExpensesController.cs",
+              "ToolTip": "D:\\ZMAllied\\ZMAllied\\ZMAllied.API\\Controllers\\FuelExpensesController.cs",
+              "RelativeToolTip": "ZMAllied.API\\Controllers\\FuelExpensesController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAiwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T11:06:40.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompanyRepository.cs",
+              "DocumentMoniker": "D:\\ZMAllied\\ZMAllied\\ZMAllied.Infrastructure\\Repositories\\CompanyRepository.cs",
+              "RelativeDocumentMoniker": "ZMAllied.Infrastructure\\Repositories\\CompanyRepository.cs",
+              "ToolTip": "D:\\ZMAllied\\ZMAllied\\ZMAllied.Infrastructure\\Repositories\\CompanyRepository.cs",
+              "RelativeToolTip": "ZMAllied.Infrastructure\\Repositories\\CompanyRepository.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwE8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T10:20:36.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CompanyRate.cs",
+              "DocumentMoniker": "D:\\ZMAllied\\ZMAllied\\ZMAllied.Domain\\Entities\\Organization\\CompanyRate.cs",
+              "RelativeDocumentMoniker": "ZMAllied.Domain\\Entities\\Organization\\CompanyRate.cs",
+              "ToolTip": "D:\\ZMAllied\\ZMAllied\\ZMAllied.Domain\\Entities\\Organization\\CompanyRate.cs",
+              "RelativeToolTip": "ZMAllied.Domain\\Entities\\Organization\\CompanyRate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T10:20:33.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\ZMAllied\\ZMAllied\\ZMAllied.Domain\\Entities\\Organization\\Company.cs",
+              "RelativeDocumentMoniker": "ZMAllied.Domain\\Entities\\Organization\\Company.cs",
+              "ToolTip": "D:\\ZMAllied\\ZMAllied\\ZMAllied.Domain\\Entities\\Organization\\Company.cs",
+              "RelativeToolTip": "ZMAllied.Domain\\Entities\\Organization\\Company.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T10:20:31.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompanyService.cs",
+              "DocumentMoniker": "D:\\ZMAllied\\ZMAllied\\ZMAllied.Application\\Services\\CompanyService.cs",
+              "RelativeDocumentMoniker": "ZMAllied.Application\\Services\\CompanyService.cs",
+              "ToolTip": "D:\\ZMAllied\\ZMAllied\\ZMAllied.Application\\Services\\CompanyService.cs",
+              "RelativeToolTip": "ZMAllied.Application\\Services\\CompanyService.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAawK0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T10:20:18.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICompanyService.cs",
+              "DocumentMoniker": "D:\\ZMAllied\\ZMAllied\\ZMAllied.Application\\Interfaces\\ICompanyService.cs",
+              "RelativeDocumentMoniker": "ZMAllied.Application\\Interfaces\\ICompanyService.cs",
+              "ToolTip": "D:\\ZMAllied\\ZMAllied\\ZMAllied.Application\\Interfaces\\ICompanyService.cs",
+              "RelativeToolTip": "ZMAllied.Application\\Interfaces\\ICompanyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T10:20:10.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICompanyRepository.cs",
+              "DocumentMoniker": "D:\\ZMAllied\\ZMAllied\\ZMAllied.Application\\Interfaces\\ICompanyRepository.cs",
+              "RelativeDocumentMoniker": "ZMAllied.Application\\Interfaces\\ICompanyRepository.cs",
+              "ToolTip": "D:\\ZMAllied\\ZMAllied\\ZMAllied.Application\\Interfaces\\ICompanyRepository.cs",
+              "RelativeToolTip": "ZMAllied.Application\\Interfaces\\ICompanyRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T10:20:01.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CompanyUpdateDto.cs",
+              "DocumentMoniker": "D:\\ZMAllied\\ZMAllied\\ZMAllied.Application\\DTOs\\Company\\CompanyUpdateDto.cs",
+              "RelativeDocumentMoniker": "ZMAllied.Application\\DTOs\\Company\\CompanyUpdateDto.cs",
+              "ToolTip": "D:\\ZMAllied\\ZMAllied\\ZMAllied.Application\\DTOs\\Company\\CompanyUpdateDto.cs",
+              "RelativeToolTip": "ZMAllied.Application\\DTOs\\Company\\CompanyUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T10:19:50.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CompanyResponseDto.cs",
+              "DocumentMoniker": "D:\\ZMAllied\\ZMAllied\\ZMAllied.Application\\DTOs\\Company\\CompanyResponseDto.cs",
+              "RelativeDocumentMoniker": "ZMAllied.Application\\DTOs\\Company\\CompanyResponseDto.cs",
+              "ToolTip": "D:\\ZMAllied\\ZMAllied\\ZMAllied.Application\\DTOs\\Company\\CompanyResponseDto.cs",
+              "RelativeToolTip": "ZMAllied.Application\\DTOs\\Company\\CompanyResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T10:19:43.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompanyCreateDto.cs",
+              "DocumentMoniker": "D:\\ZMAllied\\ZMAllied\\ZMAllied.Application\\DTOs\\Company\\CompanyCreateDto.cs",
+              "RelativeDocumentMoniker": "ZMAllied.Application\\DTOs\\Company\\CompanyCreateDto.cs",
+              "ToolTip": "D:\\ZMAllied\\ZMAllied\\ZMAllied.Application\\DTOs\\Company\\CompanyCreateDto.cs",
+              "RelativeToolTip": "ZMAllied.Application\\DTOs\\Company\\CompanyCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T10:19:32.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CompaniesController.cs",
+              "DocumentMoniker": "D:\\ZMAllied\\ZMAllied\\ZMAllied.API\\Controllers\\CompaniesController.cs",
+              "RelativeDocumentMoniker": "ZMAllied.API\\Controllers\\CompaniesController.cs",
+              "ToolTip": "D:\\ZMAllied\\ZMAllied\\ZMAllied.API\\Controllers\\CompaniesController.cs",
+              "RelativeToolTip": "ZMAllied.API\\Controllers\\CompaniesController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwFEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T10:19:22.228Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
